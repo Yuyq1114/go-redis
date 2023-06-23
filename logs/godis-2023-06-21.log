@@ -1,0 +1,30 @@
+[INFO][server.go:40] 2023/06/21 15:08:00 bind: 0.0.0.0:6379, start listening...
+[INFO][server.go:69] 2023/06/21 15:10:40 accept link
+[WARN][echo.go:64] 2023/06/21 15:18:02 read tcp 127.0.0.1:6379->127.0.0.1:55238: wsarecv: An existing connection was forcibly closed by the remote host.
+[INFO][server.go:69] 2023/06/21 15:18:45 accept link
+[INFO][echo.go:61] 2023/06/21 15:19:30 connection close
+[INFO][server.go:40] 2023/06/21 21:24:00 bind: 0.0.0.0:6379, start listening...
+[INFO][server.go:69] 2023/06/21 21:24:25 accept link
+[INFO][echo_database.go:24] 2023/06/21 21:26:45 EchoDatabase AfterClientClose
+[INFO][handler.go:65] 2023/06/21 21:26:45 connection closed:127.0.0.1:59885
+[INFO][server.go:40] 2023/06/21 21:27:00 bind: 0.0.0.0:6379, start listening...
+[INFO][server.go:69] 2023/06/21 21:27:08 accept link
+[INFO][server.go:40] 2023/06/21 21:27:25 bind: 0.0.0.0:6379, start listening...
+[INFO][server.go:69] 2023/06/21 21:27:31 accept link
+[INFO][server.go:40] 2023/06/21 21:28:26 bind: 0.0.0.0:6379, start listening...
+[INFO][server.go:40] 2023/06/21 21:28:57 bind: 0.0.0.0:6379, start listening...
+[INFO][server.go:69] 2023/06/21 21:29:08 accept link
+[ERROR][handler.go:85] 2023/06/21 21:29:10 require multi bulk reply
+[ERROR][handler.go:85] 2023/06/21 21:29:10 require multi bulk reply
+[ERROR][handler.go:85] 2023/06/21 21:29:36 require multi bulk reply
+[ERROR][handler.go:85] 2023/06/21 21:29:36 require multi bulk reply
+[ERROR][handler.go:85] 2023/06/21 21:29:36 require multi bulk reply
+[ERROR][handler.go:85] 2023/06/21 21:29:41 require multi bulk reply
+[ERROR][handler.go:85] 2023/06/21 21:29:41 require multi bulk reply
+[ERROR][handler.go:85] 2023/06/21 21:29:41 require multi bulk reply
+[INFO][server.go:40] 2023/06/21 21:29:59 bind: 0.0.0.0:6379, start listening...
+[INFO][server.go:69] 2023/06/21 21:30:03 accept link
+[ERROR][handler.go:85] 2023/06/21 21:30:12 require multi bulk reply
+[ERROR][handler.go:85] 2023/06/21 21:30:12 require multi bulk reply
+[INFO][echo_database.go:24] 2023/06/21 21:30:27 EchoDatabase AfterClientClose
+[INFO][handler.go:65] 2023/06/21 21:30:27 connection closed:127.0.0.1:60075
